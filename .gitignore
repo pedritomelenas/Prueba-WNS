@@ -3,4 +3,7 @@
 .RData
 .Ruserdata
 
+/_site/
+/.ipynb_checpoints/
+
 /.quarto/
