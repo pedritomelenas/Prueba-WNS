@@ -1,0 +1,44 @@
+---
+title: "Numerical Semigroups"
+---
+
+---
+title: "Numerical Semigroups"
+format: html
+editor: visual
+execute:
+  echo: false
+---
+
+
+## Definition
+
+We say that $(S,+)$ is a numerical semigroups if $S \subseteq \mathbb{N}$ and satisifies the following conditions:
+
+  1. For all $x,y \in S$, then $a + b \in S$.
+  
+  2. $0 \in S$.
+  
+  3. The set $\mathbb{N} \setminus S$ is finite.
+
+
+The first two conditions implies that $(S,+)$ is a submonoid of $(\mathbb{N}, +)$.
+
+
+
+## Examples
+
+
+
+
+
+
+## Examples with GAP
+
+
+
+
+
+
+
+## References
