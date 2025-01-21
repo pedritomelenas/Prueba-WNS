@@ -1,0 +1,8 @@
+---
+title: "About Numerical Semigroups"
+format: html
+editor: visual
+---
+
+This page is intended to collect information about numerical semigroups. 
+
