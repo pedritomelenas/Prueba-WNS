@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Numerical Semigroups",
+    "section": "",
+    "text": "This page is intended to collect information about numerical semigroups."
+  },
+  {
+    "objectID": "Basic concepts/Numerical-Semigroups.html",
+    "href": "Basic concepts/Numerical-Semigroups.html",
+    "title": "Numerical Semigroups",
+    "section": "",
+    "text": "We say that \\((S,+)\\) is a numerical semigroups if \\(S \\subseteq \\mathbb{N}\\) and satisifies the following conditions:\n\nFor all \\(x,y \\in S\\), then \\(a + b \\in S\\).\n\\(0 \\in S\\).\nThe set \\(\\mathbb{N} \\setminus S\\) is finite.\n\nThe first two conditions implies that \\((S,+)\\) is a submonoid of \\((\\mathbb{N}, +)\\)."
+  },
+  {
+    "objectID": "Basic concepts/Numerical-Semigroups.html#definition",
+    "href": "Basic concepts/Numerical-Semigroups.html#definition",
+    "title": "Numerical Semigroups",
+    "section": "",
+    "text": "We say that \\((S,+)\\) is a numerical semigroups if \\(S \\subseteq \\mathbb{N}\\) and satisifies the following conditions:\n\nFor all \\(x,y \\in S\\), then \\(a + b \\in S\\).\n\\(0 \\in S\\).\nThe set \\(\\mathbb{N} \\setminus S\\) is finite.\n\nThe first two conditions implies that \\((S,+)\\) is a submonoid of \\((\\mathbb{N}, +)\\)."
+  },
+  {
+    "objectID": "Basic concepts/Numerical-Semigroups.html#examples",
+    "href": "Basic concepts/Numerical-Semigroups.html#examples",
+    "title": "Numerical Semigroups",
+    "section": "Examples",
+    "text": "Examples"
+  },
+  {
+    "objectID": "Basic concepts/Numerical-Semigroups.html#examples-with-gap",
+    "href": "Basic concepts/Numerical-Semigroups.html#examples-with-gap",
+    "title": "Numerical Semigroups",
+    "section": "Examples with GAP",
+    "text": "Examples with GAP"
+  },
+  {
+    "objectID": "Basic concepts/Numerical-Semigroups.html#references",
+    "href": "Basic concepts/Numerical-Semigroups.html#references",
+    "title": "Numerical Semigroups",
+    "section": "References",
+    "text": "References"
+  }
+]
