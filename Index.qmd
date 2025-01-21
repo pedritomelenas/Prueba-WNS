@@ -2,5 +2,7 @@
 title: "About Numerical Semigroups"
 ---
 
-This page is intended to collect information about numerical semigroups. 
+This page is intended to collect information about numerical semigroups.
+
+
 
