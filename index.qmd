@@ -4,3 +4,4 @@ title: "About Numerical Semigroups"
 
 This page is intended to collect information about numerical semigroups.
 
+You can add new entries blah blah
